@@ -5,4 +5,4 @@
  #### Sometimes I practice on Codewars
  [![codewars](https://www.codewars.com/users/jknottss/badges/large)](https://www.codewars.com/users/jknottss)
  
- ![](https://github.com/jknottss/jknottss/go.png)
+ ![](https://github.com/jknottss/jknottss/blob/main/go.png)
